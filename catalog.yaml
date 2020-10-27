@@ -1,0 +1,5 @@
+version: 1
+type: pipeline-template-catalog
+
+name: mmclaughlinTestCatalog
+displayName: Pipeline Template Catalog Test for MMclaughlin
