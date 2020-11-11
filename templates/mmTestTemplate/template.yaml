@@ -1,7 +1,7 @@
 version: 1
 type: pipeline-template
 
-name: Java Maven App Pipeline Job Changed
+name: Java Maven App Pipeline Job Changed Again
 description: Simple Java App With Maven
 parameters:
   - name: emailRecipient
