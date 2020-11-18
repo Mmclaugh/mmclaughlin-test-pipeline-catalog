@@ -14,3 +14,9 @@ parameters:
     displayName: GitHub Credentials ID
     type: credentials
     defaultValue: github-creds-example
+  - name: aParam
+    type: string
+    allowedValues:
+        - foo
+        - bar
+        - baz
